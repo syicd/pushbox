@@ -1,0 +1,17 @@
+{
+    "name": "syicd/pushbox",
+    "description": "pushbox",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "pushbox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "syicd",
+            "email": "wsyicd@gmail.com"
+        }
+    ],
+    "require": {}
+}
